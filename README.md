@@ -1,9 +1,14 @@
 # 💫 About Me:
 👋 Hi, I'm Mythrayee!
+
 🎓 B.Tech Computer Science Core Engineering @ SRM Institute of Science and Technology
+
 💻 Passionate about software development, IoT, AI,AIML,Cybersecurity and emerging technologies
+
 🚀 Currently working on projects in Kotlin (Android Development), IoT, and Cybersecurity
+
 🔍 Exploring AI-powered deepfake detection and healthcare monitoring systems
+
 📌 Interested in open-source contributions, hackathons, and research in tech innovation
 
 🌟 Let's connect and build something amazing!

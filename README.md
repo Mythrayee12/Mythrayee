@@ -31,4 +31,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mythrayee12&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Mythrayee/30-nites-of-code)  
+  ![@Mythrayee #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Mythrayee)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

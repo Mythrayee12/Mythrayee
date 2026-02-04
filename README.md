@@ -1,15 +1,13 @@
 # 💫 About Me:
-👋 Hello, I'm Mythrayee!
+Hello, I'm Mythrayee!
 
-🎓 B.Tech Computer Science Core Engineering @ SRM Institute of Science and Technology
+B.Tech Computer Science Core Engineering @ SRM Institute of Science and Technology
 
-💻 Passionate about software development, IoT, AIML, Cybersecurity, and emerging technologies
+Passionate about software development, AIML, Cybersecurity, and emerging technologies
 
-🚀 Currently working on projects in Kotlin (Android Development), IoT, and Cybersecurity
+Currently working on projects in Machine Learning,Cloud Computing and Cybersecurity
 
 🔍 Exploring AI-powered deepfake detection and healthcare monitoring systems
-
-Learning heat transfer principles and computational fluid dynamics with ansys icepak
 
 📌 Interested in open-source contributions, hackathons, and research in tech innovation
 
